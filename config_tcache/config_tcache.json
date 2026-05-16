@@ -1,0 +1,16 @@
+{
+  "t2s": {
+    "mode": "tcache",
+    "cfg_flag": true,
+    "n_steps_t2s": 25,
+    "prompt_cache": true
+  },
+  "s2a": {
+    "mode": "tcache",
+    "cfg_flag": false,
+    "n_steps_s2a": [25, 10, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    "prompt_cache": true
+  }
+}
+
+
