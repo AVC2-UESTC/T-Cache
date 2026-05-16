@@ -93,3 +93,23 @@ We thank the authors of the following projects for releasing the implementations
 - [TaylorSeer](https://github.com/Shenyi-Z/TaylorSeer)
 - [ToCa](https://github.com/Shenyi-Z/ToCa)
 - [FORA](https://github.com/prathebaselva/FORA)
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@inproceedings{irihose2026t,
+  title={T-Cache: Fast Inference For Masked Generative Transformer-Based TTS Via Prompt-Aware Feature Caching},
+  author={Irihose, Obed and Zhang, Le},
+  booktitle={ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={16702--16706},
+  year={2026},
+  organization={IEEE}
+}
+```
+## Contact
+For questions or issues, please contact:
+```text
+Email: 2672291403ATqq.com
+```
